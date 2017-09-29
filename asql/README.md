@@ -1,4 +1,4 @@
-# aql
+# asql
 
 https://steve.fi/Software/asql/
 
